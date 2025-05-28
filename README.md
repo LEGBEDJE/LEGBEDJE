@@ -28,4 +28,5 @@ Feel free to reach out if you’d like to collaborate, discuss projects, or just
 ---
 
 Thanks for stopping by! 🚀
-![linkedin](https://img.shields.io/badge/linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profilestyle=for-the-badge&logo=Linkedin&logoColor=white)]
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+
