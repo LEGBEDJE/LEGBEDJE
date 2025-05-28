@@ -62,5 +62,8 @@ Feel free to reach out if you’d like to collaborate, discuss projects, or just
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LEGBEDJE&theme=dark)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LEGBEDJE&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 Thanks for stopping by! 🚀
 
