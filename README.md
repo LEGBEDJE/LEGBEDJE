@@ -60,5 +60,7 @@ Feel free to reach out if you’d like to collaborate, discuss projects, or just
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=LEGBEDJE&color=blue&style=flat-square)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LEGBEDJE&theme=dark)](https://git.io/streak-stats)
+
 Thanks for stopping by! 🚀
 
