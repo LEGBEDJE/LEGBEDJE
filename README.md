@@ -24,7 +24,7 @@ I'm currently working as a **Data Scientist**, where I combine my analytical min
 
 ### 📫 Let’s connect!
 Feel free to reach out if you’d like to collaborate, discuss projects, or just geek out about math or AI!
-
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 ---
 
 Thanks for stopping by! 🚀
