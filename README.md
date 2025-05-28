@@ -1,6 +1,16 @@
+<img src="https://github.com/LEGBEDJE/LEGBEDJE/assets/your_image_id_here/banner.gif" alt="Welcome banner" style="width:100%;" />
+
 ## Hi there 👋 Welcome to my GitHub profile!
 
 I'm **LEGBEDJE**, a passionate explorer of mathematics, technology, and data.
+
+### 👨‍💻 About Me
+
+- 🔢 Passionate about **Mathematics** and **Machine Learning**
+- 🧠 Former **Math Teacher** | Current **Data Scientist**
+- 💻 5+ years in **Front-end development** with React.js
+- 🎯 Always learning, always building
+
 
 ### 👨‍🏫 Background
 Since I was young, I’ve had a deep love for **mathematics**. This passion led me to teach math for 2 years, where I enjoyed helping others understand complex concepts with clarity and enthusiasm.
