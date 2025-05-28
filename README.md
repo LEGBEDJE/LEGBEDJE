@@ -1,4 +1,4 @@
-<img src="https://github.com/LEGBEDJE/LEGBEDJE/assets/your_image_id_here/banner.gif" alt="Welcome banner" style="width:100%;" />
+<img src="https://github.com/LEGBEDJE/LEGBEDJE/assets//banner.gif" alt="Welcome banner" style="width:100%;" />
 
 ## Hi there 👋 Welcome to my GitHub profile!
 
@@ -47,6 +47,8 @@ Feel free to reach out if you’d like to collaborate, discuss projects, or just
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modeste-kobla-legbedje-42a5201b3)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/modestelgk)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEGBEDJE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=vercel)](https://kobla.legbedje.com)
+
 
 ---
 
