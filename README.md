@@ -2,7 +2,7 @@
 
 ## Hi there 👋 Welcome to my GitHub profile!
 
-I'm **LEGBEDJE**, a passionate explorer of mathematics, technology, and data.
+I'm **Kobla LEGBEDJE**, a passionate explorer of mathematics, technology, and data.
 
 ### 👨‍💻 About Me
 
