@@ -64,6 +64,6 @@ Feel free to reach out if you’d like to collaborate, discuss projects, or just
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LEGBEDJE&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=16B5EA&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Stylish+Animated+Badge+Example" alt="Animated Badge" />
 Thanks for stopping by! 🚀
 
