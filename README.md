@@ -8,7 +8,6 @@ I'm **Kobla LEGBEDJE**, a passionate explorer of mathematics, technology, and da
 
 - 🔢 Passionate about **Mathematics** and **Machine Learning**
 - 🧠 Former **Math Teacher** | Current **Data Scientist**
-- 💻 5+ years in **Front-end development** with React.js
 - 🎯 Always learning, always building
 
 
