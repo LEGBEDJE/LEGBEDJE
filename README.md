@@ -7,7 +7,7 @@ I'm **Kobla LEGBEDJE**, a passionate explorer of mathematics, technology, and da
 ### 👨‍💻 About Me
 
 - 🔢 Passionate about **Mathematics** and **Machine Learning**
-- 🧠 Former **Math Teacher** | Current **Data Scientist**
+- 🧠 Former **Math Teacher** | Current **AI Engineer & Data Scientist**
 - 🎯 Always learning, always building
 
 
