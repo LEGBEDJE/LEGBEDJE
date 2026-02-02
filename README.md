@@ -15,7 +15,7 @@ I'm **Kobla LEGBEDJE**, a passionate explorer of mathematics, technology, and da
 Since I was young, I’ve had a deep love for **mathematics**. This passion led me to teach math for 2 years, where I enjoyed helping others understand complex concepts with clarity and enthusiasm.
 
 ### 💻 Web Development
-With **5 years of experience in front-end development**, I specialize in building modern, responsive web interfaces using **React.js**. Crafting user-friendly and performant web apps is something I truly enjoy.
+With **5 years of experience in front-end and backend development**, I specialize in building modern, responsive web interfaces using **React.js**. Crafting user-friendly and performant web apps is something I truly enjoy.
 
 ### 🤖 Data & Machine Learning
 I'm currently working as a **Data Scientist**, where I combine my analytical mindset and programming skills to solve real-world problems with **machine learning**. My curiosity drives me to continuously learn and experiment with new algorithms and techniques in AI.
